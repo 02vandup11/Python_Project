@@ -30,11 +30,7 @@ It covers data cleaning, exploration, visualization, and generating useful busin
 - `sales_summary.csv` → basic stats summary
 - Visuals → generated inside the script (4 subplots)
 
-## ▶️ How to Run
-```bash
-pip install pandas numpy matplotlib seaborn
-python analysis.py
-```
+
 
 ## 🧠 Author
 **Project by:** Vandana Padhi  
