@@ -6,7 +6,7 @@ Each project demonstrates core Python skills such as problem-solving, data handl
 ---
 
 # 1. Instamart Sales Analysis (Python Project)
-Project Folder: [https://github.com/your-username/your-repo-name/tree/main/instamart-sales-analysis](https://github.com/02vandup11/Python_Project/tree/main/Instamart_analysis)
+Project Folder: [Instamart Sales Analysis](https://github.com/02vandup11/Python_Project/tree/main/Instamart_analysis)
 
 ## Overview
 A complete sales analysis project using NumPy, Pandas, Matplotlib, and Seaborn to explore, clean, visualize, and derive insights from Instamart's sales data.
@@ -22,7 +22,7 @@ A complete sales analysis project using NumPy, Pandas, Matplotlib, and Seaborn t
 ---
 
 # 2. Calculator (CLI + Streamlit)
-Project Folder: [https://github.com/your-username/your-repo-name/tree/main/calculator](https://github.com/02vandup11/Python_Project/tree/main/Calculator)
+Project Folder: [Calculator](https://github.com/02vandup11/Python_Project/tree/main/Calculator)
 
 ## Overview
 A beginner-friendly calculator built using Python. Includes both a command-line version and a Streamlit-based web version.
@@ -36,7 +36,7 @@ A beginner-friendly calculator built using Python. Includes both a command-line 
 ---
 
 # 3. Currency Converter (Python)
-Project Folder: [https://github.com/your-username/your-repo-name/tree/main/currency-converter](https://github.com/02vandup11/Python_Project/tree/main/CurrencyConversion)
+Project Folder: [Currency Converter](https://github.com/02vandup11/Python_Project/tree/main/CurrencyConversion)
 
 ## Overview
 A simple currency converter implemented using Python with fixed exchange rates.
@@ -50,7 +50,7 @@ A simple currency converter implemented using Python with fixed exchange rates.
 ---
 
 # 4. Expense Tracker (Python + CSV)
-Project Folder: [https://github.com/your-username/your-repo-name/tree/main/expense-tracker](https://github.com/02vandup11/Python_Project/tree/main/ExpenseTracker)
+Project Folder: [Expense Tracker](https://github.com/02vandup11/Python_Project/tree/main/ExpenseTracker)
 
 ## Overview
 A small command-line utility to add and store expenses into a CSV file.
@@ -64,7 +64,7 @@ A small command-line utility to add and store expenses into a CSV file.
 ---
 
 # 5. Rock–Paper–Scissors (Python – Notebook)
-Project Folder: [https://github.com/your-username/your-repo-name/tree/main/rock-paper-scissors](https://github.com/02vandup11/Python_Project/tree/main/RockPaperScissors)
+Project Folder: [Rock–Paper–Scissors](https://github.com/02vandup11/Python_Project/tree/main/RockPaperScissors)
 
 ## Overview
 A simple game where the user plays Rock–Paper–Scissors against the computer.
