@@ -1,6 +1,3 @@
-
-
-````md
 # Calculator Project (Python)
 
 This repository contains two versions of a simple calculator built using Python:
@@ -48,7 +45,7 @@ The project is designed for beginners learning Python basics, functions, loops, 
 
 ```bash
 python calculator.py
-````
+```
 
 ### Example Output
 
@@ -76,7 +73,7 @@ pip install streamlit
 ### Step 2: Run the app
 
 ```bash
-streamlit run calculator.py
+streamlit run cal_streamlit.py
 ```
 
 Your browser will open automatically at:
@@ -89,18 +86,14 @@ http://localhost:8501/
 
 ## Future Enhancements
 
-* Add more operations (square root, power, percentage)
-* Add history feature
-* Add GUI version using Tkinter
-* Add a scientific calculator mode
-* Deploy the Streamlit version online
+- Add more operations (square root, power, percentage)  
+- Add history feature  
+- Add GUI version using Tkinter  
+- Add a scientific calculator mode  
+- Deploy the Streamlit version online  
 
 ---
 
 ## License
 
 This project is open-source and free to use for learning purposes.
-
-````
-
-
