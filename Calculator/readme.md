@@ -1,4 +1,6 @@
-```md
+
+
+````md
 # Calculator Project (Python)
 
 This repository contains two versions of a simple calculator built using Python:
@@ -25,8 +27,8 @@ The project is designed for beginners learning Python basics, functions, loops, 
 - Operator selection dropdown  
 - Displays real-time results  
 - Beginner-friendly UI  
-- Runs locally on the browser  
-- No advanced frameworks needed
+- Runs locally in the browser  
+- No advanced frameworks required
 
 ---
 
@@ -38,17 +40,17 @@ The project is designed for beginners learning Python basics, functions, loops, 
 
 ## How to Run the Command-Line Calculator
 
-1. Install Python (if not already installed).
-2. Save the file as `calculator.py`.
-3. Open your terminal or command prompt.
-4. Navigate to the project folder.
+1. Install Python (if not already installed).  
+2. Save the file as `calculator.py`.  
+3. Open your terminal or command prompt.  
+4. Navigate to the project folder.  
 5. Run:
 
 ```bash
 python calculator.py
 ````
 
-Example:
+### Example Output
 
 ```
 ========== Simple Calculator ==========
@@ -77,7 +79,7 @@ pip install streamlit
 streamlit run calculator.py
 ```
 
-A browser window will open automatically at:
+Your browser will open automatically at:
 
 ```
 http://localhost:8501/
@@ -91,7 +93,7 @@ http://localhost:8501/
 * Add history feature
 * Add GUI version using Tkinter
 * Add a scientific calculator mode
-* Deploy Streamlit version online
+* Deploy the Streamlit version online
 
 ---
 
@@ -99,5 +101,6 @@ http://localhost:8501/
 
 This project is open-source and free to use for learning purposes.
 
----
+```
 
+```
